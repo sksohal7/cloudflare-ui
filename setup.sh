@@ -23,4 +23,4 @@ cd $PREFIX/share/cloudflare-ui
 bash cloudflare \${arg1} \${arg2}
 VAR
 chmod +x $PREFIX/bin/cloudflare
-printf "\n\nConfiguration completed just run 'clouflare --help' for help\n\n"
+printf "\n\nConfiguration completed just run 'cloudflare --help' for help\n\n"
